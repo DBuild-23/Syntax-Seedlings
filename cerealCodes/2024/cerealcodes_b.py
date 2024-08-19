@@ -1,3 +1,5 @@
+#Credits by Daniel
+
 def is_simple_array(n, array):
     total_sum = sum(array)
 
