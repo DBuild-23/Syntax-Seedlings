@@ -1,4 +1,4 @@
-#Credits by Saketh
+# Credits by Saketh
 
 def construct_grid(n, k):
     grid = [['0'] * n for _ in range(n)]
