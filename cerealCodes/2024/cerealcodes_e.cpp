@@ -1,4 +1,4 @@
-// Credits by Helen
+// Credits to Helen
 
 #include <bits/stdc++.h>
 using namespace std;

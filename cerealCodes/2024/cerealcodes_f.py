@@ -1,4 +1,4 @@
-# Credits by Saketh
+# Credits to Saketh
 
 from collections import defaultdict
 

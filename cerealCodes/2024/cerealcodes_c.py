@@ -1,4 +1,4 @@
-# Credits by Saketh
+# Credits to Saketh
 
 def solve_case():
     n, m = map(int, input().split())

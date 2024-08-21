@@ -1,4 +1,4 @@
-// Credits by Daniel
+# Credits to Daniel
 
 
 value = {chr(i + 97): i for i in range(26)}  # 'a' -> 0, 'b' -> 1, ..., 'z' -> 25
