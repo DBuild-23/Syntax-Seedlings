@@ -1,1 +1,1 @@
-Nothing here, hehe!! 
+This will be a codebase of solutions for all the contests that Syntax-Seedlings do, our solutions are just a way for others to see how we solve these problems. In the future, we will add documentation and explain how we got there. 
